@@ -1,2 +1,11 @@
 # Sales_Customer_Dashboard_Tableau
-Tableau Dashboard for analyzing Sales and Customer performance using a star schema model and key business KPIs.
+Tableau Dashboard for analyzing Sales and Customer performance using a star schema model and key business KPIs
+
+<p align="center">
+  <strong>Data Source | Excel | Dashboard</strong>
+</p>
+
+---
+
+## 📊 Overview
+This project is a comprehensive Sales Overview dashboard...
