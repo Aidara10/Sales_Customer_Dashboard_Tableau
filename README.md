@@ -7,6 +7,12 @@ Tableau Dashboard for analyzing Sales and Customer performance using a star sche
   <img src="https://img.shields.io/badge/Data_Source-Excel-217346?style=for-the-badge" alt="Data Source">
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Tableau-yellow?style=for-the-badge" alt="Tableau">
+  <img src="https://img.shields.io/badge/Dashboard-blue?style=for-the-badge" alt="Dashboard">
+  <img src="https://img.shields.io/badge/Data_Source-Excel-217346?style=for-the-badge" alt="Data Source">
+</p>
+
 
 # 📑Table of Contents
 
