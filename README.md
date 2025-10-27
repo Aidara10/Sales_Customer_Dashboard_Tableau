@@ -138,6 +138,7 @@ Parfait, Habib ! Voici une version propre et professionnelle que tu peux ajout
 ## 👤Author About the Author
 
 **Habib Aidara**
+
 *Data Analyst | Business Intelligence Engineer | Power BI Developer | Data Scientist | ML Engineer*
 
 * **💼 [LinkedIn](https://www.linkedin.com/in/habib-aidara-454013369/)**
