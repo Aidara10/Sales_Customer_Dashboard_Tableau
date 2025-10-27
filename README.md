@@ -99,3 +99,50 @@ Download visuals or KPI summaries for **presentations or reports**.
 **🔹 Responsive Layout:**
 Optimized for **desktop and browser** for smooth and professional visualization.
 
+
+## 🔮 Future Enhancements
+
+This dashboard currently represents the **main “Overview” page** of a broader **Sales Analytics and Customer Intelligence Solution**.
+Planned extensions will expand its analytical scope and automation capabilities as follows:
+
+---
+
+### 📍 **Regional Insights Page**
+
+* Detailed **regional performance analysis** with interactive maps
+* Comparison of **sales growth and profit margin by region**
+* Identification of **top-performing territories** and low-performing areas
+* **Market penetration** and customer concentration analysis per region
+
+---
+
+### 📦 **Product Analytics Page**
+
+* In-depth **profitability and margin analysis by product and category**
+* Identification of **best-selling and underperforming products**
+* Visualization of **category contribution** to total profit
+* Integration of **inventory turnover** and product lifecycle metrics
+* Product mix optimization recommendations
+
+---
+
+### 👥 **Customer Intelligence Page**
+
+* Advanced **customer segmentation** by region, category, and profitability
+* **Sales per Customers** and **average revenue per customer** tracking
+* Identification of **Best customers**
+Parfait, Habib ! Voici une version propre et professionnelle que tu peux ajouter à la fin de ton projet GitHub :
+
+---
+
+## 👤Author About the Author
+
+**Habib Aidara**
+*Data Analyst | Business Intelligence Engineer | Power BI Developer | Data Scientist | ML Engineer*
+
+💼 [LinkedIn](https://www.linkedin.com/in/habib-aidara-454013369/)
+🐙 [GitHub](https://github.com/Aidara10)
+📧 Open to collaboration and opportunities
+
+
+
