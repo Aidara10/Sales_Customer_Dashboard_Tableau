@@ -140,9 +140,11 @@ Parfait, Habib ! Voici une version propre et professionnelle que tu peux ajout
 **Habib Aidara**
 *Data Analyst | Business Intelligence Engineer | Power BI Developer | Data Scientist | ML Engineer*
 
-💼 [LinkedIn](https://www.linkedin.com/in/habib-aidara-454013369/)
-🐙 [GitHub](https://github.com/Aidara10)
-📧 Open to collaboration and opportunities
+* **💼 [LinkedIn](https://www.linkedin.com/in/habib-aidara-454013369/)**
+
+* **🐙 [GitHub](https://github.com/Aidara10)**
+ 
+* **📧 Open to collaboration and opportunities**
 
 
 
