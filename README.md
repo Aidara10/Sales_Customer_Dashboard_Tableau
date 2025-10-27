@@ -8,7 +8,7 @@ Tableau Dashboard for analyzing Sales and Customer performance using a star sche
 </p>
 
 
-# Table of Contents
+# 📑Table of Contents
 
 - [Overview](#overview)
 - [Project Objectives](#project-objectives)
@@ -18,3 +18,5 @@ Tableau Dashboard for analyzing Sales and Customer performance using a star sche
 - [How to View](#how-to-view)
 - [Future Enhancements](#future-enhancements)
 - [Author](#author)
+
+## 📊 Dashboard Preview
