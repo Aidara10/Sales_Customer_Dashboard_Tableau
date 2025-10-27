@@ -33,5 +33,19 @@ Tableau Dashboard for analyzing Sales and Customer performance using a star sche
 - **Evaluate Customer Performance:** Identify and highlight the **Top 10 Customers** by profit contribution and sales volume to strengthen key client relationships and focus retention efforts.
 
 - **Monitor Operational Metrics:** Track **Total Number of Orders** and **Unique Customers** to measure business engagement levels, customer retention rates, and overall transaction volume.
+- 
+## 📊 Dashboard Metrics
 
+### **Performance Indicators**
+
+| Metric | Description | Formula |
+|--------|-------------|---------|
+| **Total Sales** | Total revenue generated from all completed orders | `SUM(Sales)` |
+| **Total Profit** | Net earnings after subtracting product and operational costs | `SUM(Profit)` |
+| **Profit Margin (%)** | Percentage of profit earned from total sales, showing overall profitability | `(SUM(Profit) / SUM(Sales)) * 100` |
+| **Sales Growth (YoY/MoM)** | Evolution of sales performance comparing current vs. previous periods | `(Current Period - Previous Period) / Previous Period` |
+| **Total Customers** | Number of unique customers who made at least one purchase | `COUNTD(CustomerID)` |
+| **Total Orders** | Total number of transactions or orders recorded | `COUNT(OrderID)` |
+| **Top 10 Customers** | Most profitable customers based on total profit generated | `RANK(SUM(Profit))` |
+| **Average Sales per Customer** | Average sales value per customer, highlighting spending behavior | `SUM(Sales) / COUNTD(CustomerID)` |
 
