@@ -76,7 +76,8 @@ Both dashboards are available within the same Tableau workbook — simply **clic
 * 🏛️ **Sales Dashboard** → Provides insights into *Sales, Profit, and Quantity trends*
 * ⭐ **Customer Dashboard** → Focuses on *Customer performance, orders, and sales distribution*
 
-![Dashboard Icons](docs/dashboard_icons.png)
+<img width="160" height="67" alt="image" src="https://github.com/user-attachments/assets/72229582-34ff-44a6-992d-cee06028ea0a" />
+
 
 ---
 
