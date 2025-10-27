@@ -20,3 +20,5 @@ Tableau Dashboard for analyzing Sales and Customer performance using a star sche
 - [Author](#author)
 
 ## 📊 Dashboard Preview
+<img width="1197" height="814" alt="Dashboard" src="https://github.com/user-attachments/assets/d537a8bb-c3ba-488e-91fb-241344be1c77" />
+
