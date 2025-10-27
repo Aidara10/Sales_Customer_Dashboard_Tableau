@@ -25,7 +25,7 @@ Tableau Dashboard for analyzing Sales and Customer performance using a star sche
 
 ## 🎯 Project Objectives
 
-- **Track Key KPIs:** Monitor essential business indicators including **Total Sales**, **Total Profit**, and **Profit Margin (%)**, with comprehensive analysis of **Month-over-Month (MoM)** and **Year-over-Year (YoY)** growth rates.
+- **Track Key KPIs:** Monitor essential business indicators including **Total Sales**, **Total Profit**, and **Profit Margin (%)**, and their growth compared to the **Previous Year** growth rates.
 
 - **Analyze Trends:** Visualize monthly and yearly **sales and profit trends** to identify performance patterns, seasonal fluctuations, and growth opportunities while detecting potential declines in profitability.
 
