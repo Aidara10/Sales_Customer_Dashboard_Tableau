@@ -74,30 +74,28 @@ Experience the full interactivity of the **Sales & Customer Dashboards** directl
 Both dashboards are available within the same Tableau workbook — simply **click the icons at the top right** to switch between views:
 
 * 🏛️ **Sales Dashboard** → Provides insights into *Sales, Profit, and Quantity trends*
-* ⭐ **Customer Dashboard** → Focuses on *Customer performance, orders, and sales distribution*
+* 👥 **Customer Dashboard** → Focuses on *Customer performance, orders, and sales distribution*
 
-<img width="160" height="67" alt="image" src="https://github.com/user-attachments/assets/72229582-34ff-44a6-992d-cee06028ea0a" />
+<img width="160" height="67" alt="image" src="https://github.com/user-attachments/assets/9714af0b-26ef-449e-814d-29c4cc5f8e5f" />
 
-
----
 
 ### **Dashboard Features**
 
 **🔹 Interactive Navigation:**
-Click the **Sales icon** 🏛️ to explore the Sales Dashboard, or the **Customer icon** ⭐ to switch to the Customer Dashboard.
+Click the **Sales icon** 🏛️ to explore the *Sales Dashboard*, or the **Customer icon** 👥 to view the *Customer Dashboard*.
 
 **🔹 Interactive Filters:**
-Filter by **Region**, **Product Category**, **Customer Segment**, or **Date Range** to dynamically update all metrics and visuals.
+Filter by **Region**, **Product Category**, **Customer Segment**, or **Date Range** to dynamically update all visuals and KPIs.
 
 **🔹 Cross-filtering:**
-Click on bars, lines, or customer names to filter related data across all charts automatically.
+Click on any visual (bar, line, or customer) to filter related data across the entire dashboard.
 
 **🔹 Drill-down & Highlighting:**
-Explore data at multiple levels — from *total sales* to *specific customers or products* — with a single click.
+Navigate from **global metrics** to **specific customers or products** in one click.
 
 **🔹 Export Options:**
-Download KPI summaries or visuals for use in **presentations and reports**.
+Download visuals or KPI summaries for **presentations or reports**.
 
 **🔹 Responsive Layout:**
-Optimized for **desktop and browser** view for smooth user experience.
+Optimized for **desktop and browser** for smooth and professional visualization.
 
