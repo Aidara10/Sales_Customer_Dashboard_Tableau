@@ -49,3 +49,16 @@ Tableau Dashboard for analyzing Sales and Customer performance using a star sche
 | **Top 10 Customers** | Most profitable customers based on total profit generated | `RANK(SUM(Profit))` |
 | **Average Sales per Customer** | Average sales value per customer, highlighting spending behavior | `SUM(Sales) / COUNTD(CustomerID)` |
 
+
+## 🛠️ Technology Stack
+
+| **Component**                       | **Technology**                                              |
+| ----------------------------------- | ----------------------------------------------------------- |
+| **Visualization Platform**          | Tableau Public                                              |
+| **Data Source**                     | Excel (.csv)                                                |
+| **Data Transformation**             | Power Query & Tableau Data Interpreter                      |
+| **Data Modeling**                   | Star Schema Model + Calculated Fields in Tableau            |
+| **KPI Calculation**                 | DAX-style expressions using Tableau Calculated Fields       |
+| **Data Cleaning**                   | Excel / Power Query (null handling, duplicates, formatting) |
+
+
