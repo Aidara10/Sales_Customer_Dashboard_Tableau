@@ -12,7 +12,6 @@ Tableau Dashboard for analyzing Sales and Customer performance using a star sche
 
 - [Overview](#overview)
 - [Project Objectives](#project-objectives)
-- [Key Features](#key-features)
 - [Dashboard Metrics](#dashboard-metrics)
 - [Technology Stack](#technology-stack)
 - [How to View](#how-to-view)
