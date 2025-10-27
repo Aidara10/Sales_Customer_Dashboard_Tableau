@@ -17,7 +17,6 @@ Tableau Dashboard for analyzing Sales and Customer performance using a star sche
     <img src="https://img.shields.io/badge/Tableau-555555?style=for-the-badge&logo=tableau" alt="Tableau">
     <img src="https://img.shields.io/badge/Dashboard-blue?style=for-the-badge" alt="Dashboard">
   </a>
-  &nbsp;&nbsp;&nbsp;
   <!-- GitHub Data Source -->
   <a href="https://github.com/Aidara10/Sales_Customer_Dashboard_Tableau/tree/main" target="_blank">
     <img src="https://img.shields.io/badge/Data_Source-555555?style=for-the-badge" alt="Data Source">
