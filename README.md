@@ -35,4 +35,16 @@ Tableau Dashboard for analyzing Sales and Customer performance using a star sche
 
 **Monitor Operational Metrics:** Track the **Total Number of Orders** and **Unique Customers** to measure engagement, customer retention, and overall business volume.
 
+## 🎯 Project Objectives
+
+- **Track Key KPIs:** Monitor essential business indicators including **Total Sales**, **Total Profit**, and **Profit Margin (%)**, with comprehensive analysis of **Month-over-Month (MoM)** and **Year-over-Year (YoY)** growth rates.
+
+- **Analyze Trends:** Visualize monthly and yearly **sales and profit trends** to identify performance patterns, seasonal fluctuations, and growth opportunities while detecting potential declines in profitability.
+
+- **Segment Performance:** Break down performance metrics by **Region**, **Product Category**, and **Customer Segment** to pinpoint high-performing markets and products that drive overall profitability.
+
+- **Evaluate Customer Performance:** Identify and highlight the **Top 10 Customers** by profit contribution and sales volume to strengthen key client relationships and focus retention efforts.
+
+- **Monitor Operational Metrics:** Track **Total Number of Orders** and **Unique Customers** to measure business engagement levels, customer retention rates, and overall transaction volume.
+
 
