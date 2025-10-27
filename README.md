@@ -62,3 +62,41 @@ Tableau Dashboard for analyzing Sales and Customer performance using a star sche
 | **Data Cleaning**                   | Excel / Power Query (null handling, duplicates, formatting) |
 
 
+
+## 🚀 How to View
+
+### **Interactive Dashboard**
+
+Experience the full interactivity of the **Sales & Customer Dashboards** directly on Tableau Public:
+
+➡️ **[View Live Dashboard on Tableau Public](https://public.tableau.com/app/profile/habib.aidara/viz/SalesCustomerDashboards_17615605607430/SalesDashboard?publish=yes)**
+
+Both dashboards are available within the same Tableau workbook — simply **click the icons at the top right** to switch between views:
+
+* 🏛️ **Sales Dashboard** → Provides insights into *Sales, Profit, and Quantity trends*
+* ⭐ **Customer Dashboard** → Focuses on *Customer performance, orders, and sales distribution*
+
+![Dashboard Icons](docs/dashboard_icons.png)
+
+---
+
+### **Dashboard Features**
+
+**🔹 Interactive Navigation:**
+Click the **Sales icon** 🏛️ to explore the Sales Dashboard, or the **Customer icon** ⭐ to switch to the Customer Dashboard.
+
+**🔹 Interactive Filters:**
+Filter by **Region**, **Product Category**, **Customer Segment**, or **Date Range** to dynamically update all metrics and visuals.
+
+**🔹 Cross-filtering:**
+Click on bars, lines, or customer names to filter related data across all charts automatically.
+
+**🔹 Drill-down & Highlighting:**
+Explore data at multiple levels — from *total sales* to *specific customers or products* — with a single click.
+
+**🔹 Export Options:**
+Download KPI summaries or visuals for use in **presentations and reports**.
+
+**🔹 Responsive Layout:**
+Optimized for **desktop and browser** view for smooth user experience.
+
