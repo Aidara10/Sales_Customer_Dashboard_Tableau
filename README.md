@@ -145,7 +145,7 @@ Parfait, Habib ! Voici une version propre et professionnelle que tu peux ajout
 
 ---
 
-## 👤Author About the Author
+## 👤Author
 
 **Habib Aidara**
 
